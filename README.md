@@ -29,7 +29,7 @@ Step 2:
 
 Step 3:
 
-- This is stage is more competitive
+- This stage is more competitive
 - The goal is to reproduce the puzzle, children must collect the different pieces
 - There are 2 servers: 1 server is slow but give reliable replies, the other server is faster but gives corrupted answers
 - Children will not get expected outcomes if they chose rapidity
