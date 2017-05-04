@@ -12,4 +12,4 @@ Co-Authors (non exhaustive list):
 
 Project co-financed BY EU, Connecting Europe Facility
 
-<img src="DNS_WS/Brainstorm.jpg">
+<img src="Brainstorm.jpg">
