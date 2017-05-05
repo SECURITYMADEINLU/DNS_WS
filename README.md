@@ -22,7 +22,7 @@ Step 1: Concept introduction, first technical elements, game concepts
 - Introduce children to DNS concept as set up in the game (adapt content to age target)
      - dynamic websites load from various servers in order to generate a single homogeneous content
      - (option) lightbeam demo, on a dynamic website
-<img src="wort_capture.png">
+<img src="wort_capture.png" height=768 width=1024>
 <img src="lightbeam_capture.png">
      
 - Let the children connect to a website and show them Lightbeam outcomes : children can understand that 1 website have connection with other websites
