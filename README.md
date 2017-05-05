@@ -14,6 +14,12 @@ Co-Authors (non exhaustive list):
 
 Project co-financed BY EU, Connecting Europe Facility
 
+# Requirements
+
+<img src="Disposition.png">
+image source: m.farcot - securitymadein.lu
+
+
 # Content
 
 The game is divided in 4 main steps.
