@@ -15,7 +15,7 @@ Project co-financed BY EU, Connecting Europe Facility
 The game is divided in 4 main steps.
 
 Step 1: Concept introduction, first technical elements, game concepts
-
+- Initial wfew slides presenting concept
 - Introduce children with the DNS concept
 - Let the children connect to a website and show them Lightbeam outcomes : children can understand that 1 website have connection with other websites
 - This first step can be used to raise awareness about specific sensitive topics (like cyberbullying)
