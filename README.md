@@ -20,12 +20,12 @@ The game is divided in 4 main steps.
 Step 1: Concept introduction, first technical elements, game concepts
 
 - Introduce children to DNS concept as set up in the game (adapt content to age target)
-     - dynamic websites load from various servers in order to generate a single homogeneous content
-     - (option) lightbeam demo, on a dynamic website
+     - [OBJJECTIVE 1] 
+     - [MEAN 1]
+     - [OBJECTIVE 2] Dynamic websites load from various servers in order to generate a single homogeneous content
+     - [MEAN 2] Connect to a dynamic website and show audience a Lightbeam outcome : audience need to understand that a dynamic website is loadig from various places. Explain that connecting to Wort.lu (other example?) generates many other connections to various web servers and related data transfer. Use analogy with a tangible shop, only all shops in the street are aware in real time that you went in that shop and can monitor and listen to what you do and say (even geolocalize you in certain situations).
 <img src="wort_capture.png">
 <img src="lightbeam_capture.png">
-     
-- Let the children connect to a website and show them Lightbeam outcomes : children can understand that 1 website have connection with other websites
 - This first step can be used to raise awareness about specific sensitive topics (like cyberbullying)
 
 Step 2:
