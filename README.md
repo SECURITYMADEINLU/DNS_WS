@@ -35,6 +35,7 @@ image source: m.farcot - securitymadein.lu
 <img src="lightbeam_capture.png">
 image source: m.farcot - securitymadein.lu
 
+
 - This first step can be used to raise awareness about specific sensitive topics (like cyberbullying)
 
 ## Step 2:
