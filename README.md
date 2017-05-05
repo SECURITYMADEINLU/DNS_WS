@@ -19,7 +19,12 @@ The game is divided in 4 main steps.
 
 Step 1: Concept introduction, first technical elements, game concepts
 
-- Introduce children with the DNS concept
+- Introduce children to DNS concept as set up in the game (adapt content to age target)
+     - dynamic websites load from various servers in order to generate a single homogeneous content
+     - (option) lightbeam demo, on a dynamic website
+
+
+     
 - Let the children connect to a website and show them Lightbeam outcomes : children can understand that 1 website have connection with other websites
 - This first step can be used to raise awareness about specific sensitive topics (like cyberbullying)
 
