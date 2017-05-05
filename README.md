@@ -1,6 +1,9 @@
 # DNS_WS
 New DNS workshop
 
+License:
+The game concept, content, support documentation and all required documentation is licensed under a creative common CC 4.0 CC-BY-SA license
+
 Goal:
 Create a 1 hour long game focused on explaining to 16 (max) children aged 8-12 years old divided in 3 groups the basic technical functionning of DNS, how DNS can be controlled, how it can be abused. Focus as much on fun than on technical content.
 
@@ -15,7 +18,7 @@ Project co-financed BY EU, Connecting Europe Facility
 The game is divided in 4 main steps.
 
 Step 1: Concept introduction, first technical elements, game concepts
-- Initial wfew slides presenting concept
+
 - Introduce children with the DNS concept
 - Let the children connect to a website and show them Lightbeam outcomes : children can understand that 1 website have connection with other websites
 - This first step can be used to raise awareness about specific sensitive topics (like cyberbullying)
