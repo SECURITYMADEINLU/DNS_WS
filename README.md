@@ -22,10 +22,11 @@ Step 1: Concept introduction, first technical elements, game concepts
 - Introduce children to DNS concept as set up in the game (adapt content to age target)
      - [OBJJECTIVE 1] Vulgarize functionning of DNS.
      - [MEAN 1]Use real postal mail analogy. Relate to IP adresses. How can the computer find the right server?
-<img src="675px-Domain_name_space.svg.png">
-image source : LionKimbro, Wereldburger758, wikimedia.org
      - [OBJECTIVE 2] Dynamic websites load from various servers in order to generate a single homogeneous content
      - [MEAN 2] Connect to a dynamic website and show audience a Lightbeam outcome : audience need to understand that a dynamic website is loadig from various places. Explain that connecting to Wort.lu (other example?) generates many other connections to various web servers and related data transfer. Use analogy with a tangible shop, only all shops in the street are aware in real time that you went in that shop and can monitor and listen to what you do and say (even geolocalize you in certain situations).
+Step 1 content example:
+<img src="675px-Domain_name_space.svg.png">
+image source : LionKimbro, Wereldburger758, wikimedia.org
 <img src="wort_capture.png">
 image source: m.farcot - securitymadein.lu
 <img src="lightbeam_capture.png">
