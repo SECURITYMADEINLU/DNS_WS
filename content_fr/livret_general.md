@@ -16,6 +16,8 @@ Cet atelier se déroule en 4 phases de jeu. Chaque phase de jeu vise un objectif
 * la quatrième phase vise à introduire le concept d'attaque par déni de service utilisant le système de nommage
 
 Les enfants sont disposés de la manière suivante:
+
+
 <img src="Disposition.png">
 image source: m.farcot - securitymadein.lu
 
