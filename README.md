@@ -50,7 +50,7 @@ image source: m.farcot - securitymadein.lu
 ### Step 1 material:
 <img src="Step1_LightBeam.png">
 image source: m.farcot - securitymadein.lu
-<img src="Step1_BackGround.png">
+<img src="Step1_BackGround_Tab.png">
 image source: m.farcot - securitymadein.lu
 <img src="Step1_zone1.png">
 image source: m.farcot - securitymadein.lu
