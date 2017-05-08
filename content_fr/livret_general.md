@@ -15,6 +15,11 @@ Cet atelier se déroule en 4 phases de jeu. Chaque phase de jeu vise un objectif
 * la troisième phase vise à introduire le concept de détournement du système de nommage à des fins malveillantes via un jeu compétitif
 * la quatrième phase vise à introduire le concept d'attaque par déni de service utilisant le système de nommage
 
+Les enfants sont disposés de la manière suivante:
+<img src="Disposition.png">
+image source: m.farcot - securitymadein.lu
+
+
 ### Première phase
 Lors de la première phase, les enfants ont pour objectif d'assembler un puzzle défini dont la globalité représente un site web (ex: wort.lu) et dont chacune des pièces représente une ressource tierce (par exemple les intégrations Facebook, Twitter, les trackers analytics ou encore la publicité). Une illustration avec le plugin Lightbeam est possible. 
 Chaque groupe d'enfants dispose d'un cannevas représentant les pièces à assembler pour obtenir un site web complet. Un animateur représente un serveur distribuant les pièces de puzzle à la demande. L'attribution à chaque groupe d'enfants est séquentielle, dans un tour de table déterminé. 
