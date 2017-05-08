@@ -46,6 +46,19 @@ image source: m.farcot - securitymadein.lu
 <img src="lightbeam_capture.png">
 image source: m.farcot - securitymadein.lu
 
+
+### Step 1 material:
+<img src="Step1_LightBeam.png">
+image source: m.farcot - securitymadein.lu
+<img src="Step1_BackGround.png">
+image source: m.farcot - securitymadein.lu
+<img src="Step1_zone1.png">
+image source: m.farcot - securitymadein.lu
+<img src="Step2_zone1.png">
+image source: m.farcot - securitymadein.lu
+<img src="Step3_zone1.png">
+image source: m.farcot - securitymadein.lu
+
 ## Step 2:
 - 
   - [OBJJECTIVE 1] Vulgarize functionning of DNS.
