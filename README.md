@@ -54,9 +54,9 @@ image source: m.farcot - securitymadein.lu
 image source: m.farcot - securitymadein.lu
 <img src="Step1_zone1.png">
 image source: m.farcot - securitymadein.lu
-<img src="Step2_zone1.png">
+<img src="Step1_zone2.png">
 image source: m.farcot - securitymadein.lu
-<img src="Step3_zone1.png">
+<img src="Step1_zone3.png">
 image source: m.farcot - securitymadein.lu
 
 ## Step 2:
