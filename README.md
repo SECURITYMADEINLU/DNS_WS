@@ -10,6 +10,7 @@ DNS Workshop is misleading. Content goes beyond DNS, and title should be more at
 - Tech behind the Net
 - The dark side of the Net
 - The other side of the Internet
+- The secret side of the Internet
 - ...
 
 
