@@ -1,7 +1,7 @@
 # New DNS workshop
 
 ## Name change proposal
-DNS Workshop is misleading. Content goes beyond DNS, and title should be more attractive and understanble by young target. Proposals listed hereafter. Feel free to add some.
+DNS Workshop (as a name) is misleading. Content goes beyond DNS, and title should be more attractive and understanble by young target. Proposals listed hereafter. Feel free to add some.
 
 - NavCode
 - Virtual Online Codex
@@ -18,7 +18,7 @@ DNS Workshop is misleading. Content goes beyond DNS, and title should be more at
 The game concept, content, support documentation and all required documentation is licensed under a creative common CC 4.0 CC-BY-SA license
 
 # Goal:
-Create a 1 hour long game focused on explaining to 16 (max) children aged 8-12 years old divided in 3 groups the basic technical functionning of DNS, how DNS can be controlled, how it can be abused. Focus as much on fun than on technical content.
+Create a 1 hour long game focused on explaining to 16 (max) children aged 8-12 years old divided in 3 groups the basic technical functionning of dynamic websites, DNS, and data filtering. Focus as much on fun than on technical content.
 
 This WS is a collaborative creation between Savety and Securitymadein.lu. 
 Co-Authors (non exhaustive list): 
