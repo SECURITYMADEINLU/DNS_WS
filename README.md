@@ -11,6 +11,7 @@ DNS Workshop (as a name) is misleading. Content goes beyond DNS, and title shoul
 - The dark side of the Net
 - The other side of the Internet
 - The secret side of the Internet
+- Web = Internet + DNS + Kittens
 - ...
 
 
