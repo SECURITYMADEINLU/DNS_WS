@@ -1,5 +1,18 @@
 # New DNS workshop
 
+## Name change proposal
+DNS Workshop is misleading. Content goes beyond DNS, and title should be more attractive and understanble by young target. Proposals listed hereafter. Feel free to add some.
+
+- NavCode
+- Virtual Online Codex
+- Dynamic Internet Diary
+- Secure Internet Map Making
+- Tech behind the Net
+- The dark side of the Net
+- The other side of the Internet
+- ...
+
+
 ## License:
 The game concept, content, support documentation and all required documentation is licensed under a creative common CC 4.0 CC-BY-SA license
 
