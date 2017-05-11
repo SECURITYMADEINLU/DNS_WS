@@ -40,7 +40,13 @@ The game is divided in 4 main steps.
 
 ## Step 1: Concept introduction, first technical elements, game concepts
 
-- Introduce children to DNS concept as set up in the game (adapt content to age target)
+- Global introduction, "The data Postman"
+    - Introduce children to DNS concept as set up in the game (adapt content to age target)
+    - Computers/Connected devices connected to the Internet each have a specific (IP) adress
+    - These machines exchange "packets" on the Internet, in these packets, there is data (information)
+    - IP adresses are composed of a set of numbers, just like a telephone number (numbers are easier to be treated by a computer, whereas humans prefer words)
+
+
      - [OBJJECTIVE 1] Vulgarize functionning of DNS.
      - [MEAN 1]Use real postal mail analogy. Relate to IP adresses. How can the computer find the right server?
      - [OBJECTIVE 2] Dynamic websites load from various servers in order to generate a single homogeneous content
