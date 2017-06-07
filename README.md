@@ -14,6 +14,9 @@ DNS Workshop (as a name) is misleading. Content goes beyond DNS, and title shoul
 - Web = Internet + DNS + Kittens
 - ...
 
+## Content
+This repository regroups the educational booklet for the speaker, and graphical ressources to be used during the workshop. Those resources are both in French and in English.
+
 
 ## License:
 The game concept, content, support documentation and all required documentation is licensed under a creative common CC 4.0 CC-BY-SA license
@@ -23,7 +26,7 @@ Create a 1 hour long game focused on explaining to 16 (max) children aged 8-12 y
 
 This WS is a collaborative creation between Savety and Securitymadein.lu. 
 Co-Authors (non exhaustive list): 
-- Loic Peden (savety)
+- Loïc Peden (savety)
 - Matthieu Farcot (Securitymadein.lu)
 - Emilie Muller (Securitymadein.lu)
 
@@ -31,7 +34,7 @@ Project co-financed BY EU, Connecting Europe Facility
 
 # Requirements
 
-![Room Disposition](Disposition.png "image source: m.farcot - securitymadein.lu")
+![Room Disposition](ressources_doc/Disposition.png "image source: m.farcot - securitymadein.lu")
 
 
 
@@ -48,28 +51,27 @@ The game is divided in 4 main steps.
     - IP adresses are composed of a set of numbers, just like a telephone number (numbers are easier to be treated by a computer, whereas humans prefer words)
 
 
-     - [OBJJECTIVE 1] Vulgarize functionning of DNS.
+     - [OBJECTIVE 1] Vulgarize functionning of DNS.
      - [MEAN 1]Use real postal mail analogy. Relate to IP adresses. How can the computer find the right server?
      - [OBJECTIVE 2] Dynamic websites load from various servers in order to generate a single homogeneous content
      - [MEAN 2] Connect to a dynamic website and show audience a Lightbeam outcome : audience need to understand that a dynamic website is loadig from various places. Explain that connecting to Wort.lu (other example?) generates many other connections to various web servers and related data transfer. Use analogy with a tangible shop, only all shops in the street are aware in real time that you went in that shop and can monitor and listen to what you do and say (even geolocalize you in certain situations).
      
 
 Process:
-* Speaker starts introdfucing topic
+* Speaker starts introducing topic
 * One child is designated as a DNS server
      
      
 ### Step 1 content example:
-<img src="675px-Domain_name_space.svg.png">
+<img src="ressources_doc/675px-Domain_name_space.svg.png">
 image source : LionKimbro, Wereldburger758, wikimedia.org
-<img src="wort_capture.png">
+<img src="ressources_doc/wort_capture.png">
 image source: m.farcot - securitymadein.lu
-<img src="lightbeam_capture.png">
+<img src="ressources_doc/lightbeam_capture.png">
 image source: m.farcot - securitymadein.lu
 
 ## Step 2:
-- 
-  - [OBJJECTIVE 1] Vulgarize functionning of DNS.
+- [OBJECTIVE 1] Vulgarize functionning of DNS.
 - [MEAN 1]Use real postal mail analogy. Relate to IP adresses. How can the computer find the right server?
 - Children can create their own website
 - Children have to pitch their website in a hackathon style
@@ -93,7 +95,8 @@ image source: m.farcot - securitymadein.lu
 - Anti-virus filter
 
 
+# Conception
+During the conception, the following notes were taken during a meeting: 
 
-
-<img src="Brainstorm.jpg">
+<img src="ressources_doc/Brainstorm.jpg">
 image source: m.farcot - securitymadein.lu
