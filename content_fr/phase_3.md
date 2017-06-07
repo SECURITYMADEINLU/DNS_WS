@@ -1,11 +1,11 @@
 # Phase 3 
 
 ## Préparation
-*Nombre de participants* : 15 enfants, répartis en n groupes (possiblement 15 groupes de 1) et 1 animateur (sans préjuger des lois et réglementations locales)
+*Nombre de participants* : 16 enfants (max), répartis en 3 groupes et 1 animateur (sans préjuger des lois et réglementations locales)
 *Matériel*: 
-* n canevas à compléter
-* n sets de cartes (6 cartes par set) représentant chacune des ressources à assembler
-* n sets de cartes (6 cartes par set) représentant les ressources corrompues
+* 3 canevas à compléter
+* 3 sets de cartes (6 cartes par set) représentant chacune des ressources à assembler
+* 3 sets de cartes (6 cartes par set) représentant les ressources corrompues
 * 1 vidéo-projecteur
 
 ## Objectifs détaillés
@@ -37,7 +37,7 @@ Cet atelier est également l'occasion d'introduire les problématiques de diffus
 
 
 ## Déroulé
-Les enfants disposent d'un canevas à compléter par groupe, et du modèle qu'ils auront choisi à la phase 2 projeté par vidéo-projecteur. Les groupes d'enfants sont répartis entre une équipe bleue (Blue-Team) et une rouge (Red-Team). La répartition peut être de l'ordre de 1 groupe pour la Red-Team pour 14 pour la Blue-Team. L'objectif, connu publiquement, de chaque groupe de la Blue-Team est de constituer le plus rapidement possible son puzzle. L'objectif, caché au public et connu uniquement de la Red-Team, de la Red-Team est de fausser la réalisation des puzzles de la Blue-Team en donnant des pièces corrompues.
+Les enfants disposent d'un canevas à compléter par groupe, et du modèle qu'ils auront choisi à la phase 2 projeté par vidéo-projecteur. Les groupes d'enfants sont répartis entre deux équipes bleues (Blue-Team) et une rouge (Red-Team). L'objectif, connu publiquement, de chaque groupe de la Blue-Team est de constituer le plus rapidement possible son puzzle. L'objectif, caché au public et connu uniquement de la Red-Team, de la Red-Team est de fausser la réalisation des puzzles de la Blue-Team en donnant des pièces corrompues.
 
 Chaque groupe dispose devant lui d'un écriteau indiquant si il veut être servi par l'ancien ou le nouveau résolveur DNS. 
 L'animateur représente l'ancien résolveur DNS. Il peut délivrer à chaque tour 1 pièce telle que demandée par le groupe de joueurs.

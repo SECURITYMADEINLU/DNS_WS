@@ -24,7 +24,7 @@ image source: m.farcot - securitymadein.lu
 
 ### Première phase
 Lors de la première phase, les enfants ont pour objectif d'assembler un puzzle défini dont la globalité représente un site web (ex: wort.lu) et dont chacune des pièces représente une ressource tierce (par exemple les intégrations Facebook, Twitter, les trackers analytics ou encore la publicité). Une illustration avec le plugin Lightbeam est possible. 
-Chaque groupe d'enfants dispose d'un cannevas représentant les pièces à assembler pour obtenir un site web complet. Un animateur représente un serveur distribuant les pièces de puzzle à la demande. L'attribution à chaque groupe d'enfants est séquentielle, dans un tour de table déterminé. 
+Un groupe d'enfants dispose d'un cannevas représentant les pièces à assembler pour obtenir un site web complet. Trois autres groupes d'enfants représentent les intermédiaires techniques nécessaires pour obtenir ces pièces. Il s'agit pour deux groupes d'être les serveurs autoritaires et pour le dernier groupe d'être les serveurs servant les requêtes HTTP demandées par le groupe finalisant le puzzle.
 
 ### Seconde phase
 Les enfants sont amenés à concevoir leur propre site web, en assemblant des briques de services tiers disponibles. Chaque groupe pitche son idée auprès de l'ensemble. Le pitch ayant collecté le plus de voix est sélectionné. Cependant, les animateurs peuvent modérer et décider d'interdire certains services, pour des raisons arbitraires. Par exemple, les enfants peuvent disposer initialement de briques relatives à la vente de sucreries mais voir ces briques interdites par les animateurs. Cette phase illustre le filtrage par une autorité tierce.
@@ -38,17 +38,17 @@ A la fin de cette phase, les enfants sont amenés à révéler à l'aide d'un fi
 Les enfants, toujours séparés en red teams et blue team sont amenés à reproduire la troisième phase. Il est probable que les joueurs choisiront alors d'utiliser le résolveur DNS historique plutôt que le résolveur de la red-team. Les joueurs de la red team pourront alors, pour chaque séquence, faire un nombre de requêtes au serveur DNS historique équivalent au nombre de pénalités du joueur effectuant sa requête. Ce nombre p de requêtes amènera l'animateur à passé le tour des p enfants suivant l'enfant ayant fait sa requête. Cela permet d'illustrer une congestion du serveur DNS permettant d'introduire le concept de déni de service par infection d'un botnet, et la pénalisation de la communauté.
 
 ## Matériel
-Les enfants sont séparés en n groupes (un groupe pouvant selon les conditions, se réduire à un enfant). Chaque groupe dispose de:
+Les enfants sont séparés en 3 groupes. Chaque groupe dispose de:
 * 1 canevas physique (sous la forme d'un terminal comme un smartphone), par exemple réalisé en bois et disposant d'accroche de type Scratch
 
-L'ensemble dispose de n*s pièces représentant les s services  (où n*s représente le nombre de pièces disponibles pour chacun des services disponibles: ex, pour 6 groupes d'enfants disposant de 5 services, on dispose d'un jeu de 6*5=30 pièces)
+L'ensemble dispose de 3*s pièces représentant les s services  (où 3*s représente le nombre de pièces disponibles pour chacun des services disponibles: ex, si l'on dispose de 5 types de services, on dispose d'un jeu de 3*5=15 pièces)
 * Ces pièces peuvent être imprimées en papier plasitifié (des modèles se trouvent sur le repo git)
 * L'arrière de chaque pièce dispose d'un système d'accroche de type Scracth permettant une fixation sur le canevas
 
-L'ensemble dispose de n*s pièces représentant des services ayant les mêmes caractéristiques que précédement mais disposant de motifs à réveler. 
+L'ensemble dispose de 3*s pièces représentant des services ayant les mêmes caractéristiques que précédement mais disposant de motifs à réveler. 
 Les motifs peuvent être imprimés à l'aide de glyphes colorés et révélés par un filtre monochrome. Ils peuvent aussi être apposés à l'encre UV et révélés sous lumière noire.
 
 L'animateur dispose d'un livret technique apportant les références techniques.
 
-**version 0.2**
+**version 0.5**
 **contact: loic.peden@savety.lu**

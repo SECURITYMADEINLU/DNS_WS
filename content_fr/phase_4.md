@@ -1,12 +1,12 @@
 # Phase 4 
 
-Proposition: pourquoi ne pas integrer une partie attaque DDos par aplification DNS?
+Proposition: pourquoi ne pas integrer une partie attaque DDos par amplification DNS?
 
 ## Préparation
-*Nombre de participants* : 15 enfants, répartis en n groupes (possiblement 15 groupes de 1) et 1 animateur (sans préjuger des lois et réglementations locales)
+*Nombre de participants* : 16 enfants (max), répartis en 3 groupes et 1 animateur (sans préjuger des lois et réglementations locales)
 *Matériel*: 
-* n canevas à compléter
-* n sets de cartes (6 cartes par set) représentant chacune des ressources à assembler
+* 3 canevas à compléter
+* 3 sets de cartes (6 cartes par set) représentant chacune des ressources à assembler
 * 1 vidéo-projecteur
 
 ## Objectifs détaillés
@@ -36,11 +36,11 @@ Cet atelier permet de présenter les réseaux d'ordinateurs infectés (Botnet) e
 
 
 ## Déroulé
-Comme dans la phase 3, les enfants disposent d'un canevas à compléter par groupe, et du modèle qu'ils auront choisi à la phase 2 projeté par vidéo-projecteur. Les groupes d'enfants sont répartis entre une équipe bleue (Blue-Team) et une rouge (Red-Team). La répartition peut être de l'ordre de 1 groupe pour la Red-Team pour 14 pour la Blue-Team. L'objectif, connu publiquement, de chaque groupe de la Blue-Team est de constituer le plus rapidement possible son puzzle. 
+Comme dans la phase 3, les enfants disposent d'un canevas à compléter par groupe, et du modèle qu'ils auront choisi à la phase 2 projeté par vidéo-projecteur. Les groupes d'enfants sont répartis entre deux équipes bleues (Blue-Team) et une rouge (Red-Team). L'objectif, connu publiquement, de chaque groupe de la Blue-Team est de constituer le plus rapidement possible son puzzle. 
 
 Lors d'un passage, le groupe interrogé demande sa pièce au résolveur DNS joué par l'animateur. Celui-ci lui répond et donne la pièce. La Red-Team va alors effectuer un nombre de requêtes illégitimes correspondant au nombre X de motifs complets trouvés pour ce groupe à l'étape 3. L'animateur va alors passer le tour des X groupes suivants.
 
-L'animateur peut alors présenter les problématiques de déni de service distribué et l'aspect crucial du serveur DNS sans lequel aucun service n'est accessible. 
+L'animateur peut alors présenter les problématiques de déni de service distribué visant les serveurs DNS et l'aspect crucial du serveur DNS sans lequel aucun service n'est accessible. 
 
 
 
