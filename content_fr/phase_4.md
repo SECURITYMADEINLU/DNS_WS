@@ -1,6 +1,5 @@
 # Phase 4 
 
-Proposition: pourquoi ne pas integrer une partie attaque DDos par amplification DNS?
 
 ## Préparation
 *Nombre de participants* : 16 enfants (max), répartis en 3 groupes et 1 animateur (sans préjuger des lois et réglementations locales)
