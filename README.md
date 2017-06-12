@@ -1,19 +1,5 @@
 # New DNS workshop
 
-## Name change proposal
-DNS Workshop (as a name) is misleading. Content goes beyond DNS, and title should be more attractive and understanble by young target. Proposals listed hereafter. Feel free to add some.
-
-- NavCode
-- Virtual Online Codex
-- Dynamic Internet Diary
-- Secure Internet Map Making
-- Tech behind the Net
-- The dark side of the Net
-- The other side of the Internet
-- The secret side of the Internet
-- Web = Internet + DNS + Kittens
-- ...
-
 ## Content
 This repository regroups the educational booklet for the speaker, and graphical ressources to be used during the workshop. Those resources are both in French and in English.
 
