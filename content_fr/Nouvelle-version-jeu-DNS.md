@@ -3,13 +3,44 @@ Nombre d'enfant total: 12
 
 Objectifs du jeu:
 
-> Appréhender le concept de sites dynamiques nécessitant l'assemblage de multiples ressources hébergées sur d'autre serveurs
-> Appréhender le concept de résolveur DNS
-> Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
+# Appréhender le concept de sites dynamiques nécessitant l'assemblage de multiples ressources hébergées sur d'autre serveurs
+
+# Appréhender le concept de résolveur DNS
+
+# Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
 
 Règles du jeu:
 
-Chaque enfant joue reçoit un numéro et joue un rôle prédéfini respectant un déroulement précis qui permet de comprendre la façon dont f
+Chaque enfant joue reçoit un numéro et joue un rôle prédéfini respectant un déroulement précis qui permet de comprendre la façon dont fonctionne un site web.
+
+Les joueurs:
+
+-	L’enfant numéro 1 joue le rôle du navigateur (ZONE A)
+-	L’enfant numéro 2 joue le rôle du résolveur DNS (ZONE B)
+-	L’enfant numéro 3 joue le rôle du root (ZONE B)
+-	L’enfant numéro 4 représente « .lu » et « .fr »  (ZONE B)
+-	L’enfant numéro 5 représente « .com » (ZONE B)
+-	L’enfant numéro 6 représente « smile.lu » et « google.com » (ZONE B)
+-	L’enfant numéro 7 représente « facebook.fr » et « youtube.com » (ZONE B)
+-	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des ressources (ZONE C)
+
+Le jeu se déroule de cette façon: 
+
+1/ L’enfant numéro 3 jouant le rôle de navigateur souhaite charger la page www.smile.lu
+
+1/ l’enfant jouant le rôle de navigateur (nommé Roberta) souhaite charger la page www.smile.lu. 
+
+2/ Le navigateur (Roberta) doit s’adresser au résolveur DNS (appelé Didier) où se trouvent les ressources (www.smile.lu/).
+
+3/ Le navigateur (Didier) demande au Root (Rosa) qui peut lui procurer le « .lu » : le root (Rosa) indique au navigateur (Didier) que c’est Thierry qui possède le « .lu ».
+
+4/ Le navigateur (Didier) demande ensuite à Thierry qui possède « smile.lu ». Thierry indique qu’Alain détient « smile.lu ».
+
+5/ La navigateur (Didier) demande à Alain www.smile.lu. 
+
+
+ 
+
 
 
 
