@@ -34,7 +34,7 @@ Le jeu se déroule de cette façon:
 
 3/ Le navigateur (enfant numéro 1) demande au Root (enfant numéro 3) qui peut lui procurer le « .lu » : le root (numéro 3) indique au navigateur (enfant numéro 1) que c’est l'enfant numéro 4 qui possède « .lu ».
 
-4/ Le navigateur (Didier) demande ensuite à Thierry qui possède « smile.lu ». Thierry indique qu’Alain détient « smile.lu ».
+4/ Le navigateur (enfant numéro 1) demande ensuite à l'enfant numéro 4 qui possède « smile.lu ». L'enfant numéro 4 indique que l'enfant numéro 6 détient « smile.lu ».
 
 5/ La navigateur (Didier) demande à Alain www.smile.lu. 
 
