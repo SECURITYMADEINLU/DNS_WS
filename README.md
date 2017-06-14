@@ -20,7 +20,7 @@ Project co-financed BY EU, Connecting Europe Facility
 
 # Requirements
 
-![Room Disposition](ressources_doc/Disposition.png "image source: m.farcot - securitymadein.lu")
+![Workshop_DNS_Layout](ressources/Workshop_DNS_Layout.png "image source: m.farcot - securitymadein.lu")
 
 
 
