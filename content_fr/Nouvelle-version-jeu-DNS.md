@@ -3,11 +3,11 @@ Nombre d'enfant total: 12
 
 Objectifs du jeu:
 
-# Appréhender le concept de sites dynamiques nécessitant l'assemblage de multiples ressources hébergées sur d'autre serveurs
+1. Appréhender le concept de sites dynamiques nécessitant l'assemblage de multiples ressources hébergées sur d'autre serveurs
 
-# Appréhender le concept de résolveur DNS
+2. Appréhender le concept de résolveur DNS
 
-# Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
+3. Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
 
 Règles du jeu:
 
