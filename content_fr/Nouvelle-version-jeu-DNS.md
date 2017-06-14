@@ -24,10 +24,27 @@ Les joueurs:
 -	L’enfant numéro 7 représente « facebook.fr » et « youtube.com » (ZONE B)
 -	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des ressources (ZONE C)
 
-Le jeu se déroule de cette façon: 
+Le jeu se déroule de cette façon: une page d'un site Internet est projetée et les enfants vont réussir à comprendre comment est constituée cette page grâce à une sorte de jeu de rôle.
 
-1/ 
- 
+1/ L'enfant numéro 1 (navigateur) souhaite charger la page www.smile.lu/.
+
+2/ L'enfant numéro 1 (navigateur) demande à l'enfant numéro 2 (résolveur DNS) "où sont les ressources" pour "www.smile.lu/index.html".
+
+3/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 3 (root) qui détient ".lu". Ce dernier indique que c'est l'enfant numéro 4 qui détient la réponse. 
+
+4/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 4 "smile.lu" qui est "smile.lu". L'enfant numéro 4 indique que c'est l'enfant numéro 6 qui détient la réponse. 
+
+5/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 6 qui a "www.smile.lu".  L'enfant numéro 6 indique un numéro d'"enfant ressource", exemple l'enfant numéro 8 (à ce niveau là, on parle en adresses IP, exemple: 192.162.2.3)
+
+6/ L'enfant numéro 2 (résolveur DNS) dit à l'enfant numéro 1 (navigateur) "renseigne-toi auprès de l'enfant numéro 8". 
+
+7/ L'enfant numéro 1 (le navigateur) demande à un l'enfant ressource numéro 8 "/index.html".
+
+8/ L'enfant ressource numéro 8 donne à l'enfant numéro 1 (le navigateur) le fichier "index.html"
+
+9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
+
+
 
 
 
