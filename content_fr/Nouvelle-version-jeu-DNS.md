@@ -9,6 +9,11 @@ Objectifs du jeu:
 
 3. Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
 
+Matériel: 
+
+- panneaux avec rôles des enfants
+- enveloppes
+
 Règles du jeu:
 
 Chaque enfant joue reçoit un numéro et joue un rôle prédéfini respectant un déroulement précis qui permet de comprendre la façon dont fonctionne un site web.
@@ -43,6 +48,17 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée et
 8/ L'enfant ressource numéro 8 donne à l'enfant numéro 1 (le navigateur) le fichier "index.html"
 
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
+
+
+La deuxième phase:
+Le résolveur menteur.
+
+C'est le résolveur qui bloque et décide q'une ressource est interdite. C'est là où on introduit la notion de filtrage.
+
+
+
+
+
 
 
 
