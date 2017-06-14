@@ -26,19 +26,7 @@ Les joueurs:
 
 Le jeu se déroule de cette façon: 
 
-1/ L’enfant numéro 3 jouant le rôle de navigateur souhaite charger la page www.smile.lu (exemple)
-
-1/ l’enfant numéro 1 jouant le rôle de navigateur souhaite charger la page www.smile.lu. 
-
-2/ Le navigateur (enfant numéro 1) doit s’adresser au résolveur DNS (enfant numéro 2) où se trouvent les ressources (www.smile.lu/).
-
-3/ Le navigateur (enfant numéro 1) demande au Root (enfant numéro 3) qui peut lui procurer le « .lu » : le root (numéro 3) indique au navigateur (enfant numéro 1) que c’est l'enfant numéro 4 qui possède « .lu ».
-
-4/ Le navigateur (enfant numéro 1) demande ensuite à l'enfant numéro 4 qui possède « smile.lu ». L'enfant numéro 4 indique que l'enfant numéro 6 détient « smile.lu ».
-
-5/ La navigateur (Didier) demande à Alain www.smile.lu. 
-
-
+1/ 
  
 
 
