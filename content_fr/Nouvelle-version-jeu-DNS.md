@@ -1,4 +1,5 @@
 Durée totale du jeu: 30 minutes
+
 Nombre d'enfant total: 12 
 
 Objectifs du jeu:
