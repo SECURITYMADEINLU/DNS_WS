@@ -8,17 +8,18 @@ Objectifs du jeu:
 
 2. Appréhender le concept de résolveur DNS
 
-3. Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (blocage de sites spécifiques)
+3. Expliciter les aspects positifs d'un système de filtrage DNS (blocage de malware) et les aspects plus controversés (censure de sites spécifiques)
 
 Matériel: 
 
 - panneaux avec rôles des enfants
 - enveloppes
 - tampons pour confirmer que les différentes étapes ont bien été respectées
+- chronomètre 
 
 Règles du jeu:
 
-Chaque enfant joue reçoit un numéro et joue un rôle prédéfini respectant un déroulement précis qui permet de comprendre la façon dont fonctionne un site web.
+Chaque enfant joue un rôle prédéfini en respectant un déroulement précis qui permet dans un premier temps de comprendre la façon dont fonctionne un site web et le filtrage DNS dans un second temps.
 
 Le jeu est divisée en 3 étapes: 
 
@@ -36,7 +37,6 @@ Les joueurs:
 -	L’enfant numéro 6 représente « smile.lu » et « google.com » (ZONE B)
 -	L’enfant numéro 7 représente « facebook.fr » et « youtube.com » (ZONE B)
 -	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des ressources (ZONE C)
-
 
 PHASE 1 & 2
 
@@ -60,15 +60,14 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée et
 
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
 
-
 PHASE 3
-
-Le résolveur menteur.
 
 Dans cette deuxième phase, les enfants se familiarisent avec le côté positif d'un filtrage DNS et son aspect controversé (la censure).
 C'est le résolveur qui bloque et décide q'une ressource est interdite. C'est là où on introduit la notion de filtrage.
 Ici, la censure apparaît au niveau des ressources, lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de montrer que cette dernière a été censurée. Cette étape amène forcément les enfants à réfléchir sur la notion de liberté d'expression. Mais cette étape montre également l'importance d'effectuer des mises à jour sur un navigateur, car un navigateur sans mises à jour sera vulnérable aux malware. 
+
 Afin de démontrer cette problématique, on introduit un second navigateur avec l'apparition d'un second navigateur avec mises à jour: cela permet aux enfants de comprendre la nécessité d'effectuer les mises à jour nécessaires car un navigateur dépourvu de mises à jour peut réceptionner un malware.
+
 Enfin, pour introduire ces malware, il sera demandé à l'enfant numéro 5 de distribuer du malware en donnant des réponses erronnées.
 
 
