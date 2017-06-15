@@ -60,13 +60,13 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée et
 
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
 
-PHASE 3
+PHASE 3: le ré
 
-Dans cette deuxième phase, les enfants se familiarisent avec le côté positif d'un filtrage DNS et son aspect controversé (la censure).
-C'est le résolveur qui bloque et décide q'une ressource est interdite. C'est là où on introduit la notion de filtrage.
-Ici, la censure apparaît au niveau des ressources, lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de montrer que cette dernière a été censurée. Cette étape amène forcément les enfants à réfléchir sur la notion de liberté d'expression. Mais cette étape montre également l'importance d'effectuer des mises à jour sur un navigateur, car un navigateur sans mises à jour sera vulnérable aux malware. 
+Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent .
 
-Afin de démontrer cette problématique, on introduit un second navigateur avec l'apparition d'un second navigateur avec mises à jour: cela permet aux enfants de comprendre la nécessité d'effectuer les mises à jour nécessaires car un navigateur dépourvu de mises à jour peut réceptionner un malware.
+Cette phase introduit la notion de filtrage DNS. Lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de l'aider à comprendre la censure. Cette étape amène les enfants à réfléchir sur la notion de liberté d'expression.  
+
+Cependant, cette étape démontre qu'il est également nécessaire d'effectuer les mises à jour sur un navigateur pour qu'il ne soit pas vulnérable face aux malware. Afin de démontrer cette problématique, on créé un navigatuer mis à jour et un navigateur non mis à jour: les enfants comprennent très vite l'importance des mises à jour.
 
 Enfin, pour introduire ces malware, il sera demandé à l'enfant numéro 5 de distribuer du malware en donnant des réponses erronnées.
 
