@@ -52,7 +52,7 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée su
 
 3/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 3 (root) qui détient ".lu". Ce dernier indique que c'est l'enfant numéro 4 qui détient la réponse. 
 
-4/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 4 "smile.lu" qui est "smile.lu". L'enfant numéro 4 indique que c'est l'enfant numéro 6 qui détient la réponse. 
+4/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 4 qui est "smile.lu". L'enfant numéro 4 indique que c'est l'enfant numéro 6 qui détient la réponse. 
 
 5/ L'enfant numéro 2 (résolveur DNS) demande à l'enfant numéro 6 qui a "www.smile.lu".  L'enfant numéro 6 indique un numéro d'"enfant ressource", exemple l'enfant numéro 8 (à ce niveau là, on parle en adresses IP, exemple: 192.162.2.3: cela permet de montrer que l'on peut également arriver sur une page web en tapant cet enchaînement de chiffres dans un navigateur).
 
