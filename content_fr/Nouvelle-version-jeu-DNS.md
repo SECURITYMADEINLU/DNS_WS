@@ -72,7 +72,7 @@ Dans cette deuxième phase, les enfants se familiarisent avec les aspects contro
 
 Cette phase introduit la notion de filtrage DNS. Lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de l'aider à comprendre la censure. Cette étape amène les enfants à réfléchir sur la notion de liberté d'expression.  
 
-Cependant, cette étape démontre qu'il est également nécessaire d'effectuer les mises à jour sur un navigateur pour qu'il ne soit pas vulnérable face aux malware. Afin de démontrer cette problématique, on créé un navigateur mis à jour et un navigateur non mis à jour: les enfants comprennent très vite l'importance des mises à jour.
+Cependant, cette étape démontre qu'il est également nécessaire d'effectuer les mises à jour sur un navigateur pour qu'il ne soit pas vulnérable face aux malware. Afin de démontrer cette problématique, un enfant joue le rôle du navigateur mis à jour tandis qu'un autre enfant joue le rôle du navigateur non mis à jour: les enfants comprennent très vite l'importance des mises à jour.
 
 Enfin, pour introduire les malware, il sera demandé à l'enfant numéro 5 de distribuer des malware en donnant des réponses erronnées.
 
