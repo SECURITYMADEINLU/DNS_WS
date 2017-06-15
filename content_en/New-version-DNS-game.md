@@ -16,6 +16,7 @@ Material:
 •	Envelopes
 •	Stamps to confirm that the different steps were respected
 •	Chronometer
+
 Game’s rules:
 
 Each child plays a predefined role and respect a precise continuity in order to, first of all, understand the way a website works and, then, how DNS filtering works.
@@ -39,7 +40,7 @@ The players:
 -	Child number 5 represents “.com” (area B)
 -	Child number 6 represents “smile.lu” and “google.com” (area B)
 -	Child number 7 represents “facebook.fr” and “youtube.com” (area B)
--	Children 8 / 9 / 10 / 11 / 12 play the resources’ role (area C)
+-	Children number 8 / 9 / 10 / 11 / 12 play the resources’ role (area C)
 
 PHASE 1 & 2
 
@@ -47,11 +48,11 @@ The game takes place according to this way:
 
 A website page is projected on a screen and children will have to rebuild this page with a kind of role play.
 
-1/ The number 1 child (browser) has to download the website www.smile.lu/.
+1/ The child number 1 (browser) has to download the website www.smile.lu/.
 
-2/ The number 1 child (browser)  asks the number 2 child (DNS resolver) “where are the resources” for "www.smile.lu/index.html".
+2/ The child number 1 (browser)  asks the number 2 child (DNS resolver) “where are the resources” for "www.smile.lu/index.html".
 
-3/ The number 2 child (DNS resolver) asks the number 3 child (root) who owns “.lu”. The number 3 child indicates that it is child number 4 who has this answer.
+3/ The child number 2 (DNS resolver) asks the child number 3 (root) who owns “.lu”. The child number 3 indicates that it is child number 4 who has this answer.
 
 4/ The child number 2 (DNS resolver) asks the child number 4 who is “smile.lu”. The child number 4 indicates that it the child number 6 who has the answer.
 
