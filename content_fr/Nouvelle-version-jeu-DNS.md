@@ -64,6 +64,8 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée su
 
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
 
+Et ainsi de suite, le tour reprend pour la consistution d'autres sites Internet.
+
 PHASE 3: le résolveur menteur
 
 Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent .
