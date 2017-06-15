@@ -23,7 +23,7 @@ Chaque enfant joue un rôle prédéfini en respectant un déroulement précis qu
 
 Agencement salle:
 
-La salle est divisée en 2 zones principales: 1 zone DNS, 1 zone serveurs (voir schéma).
+La salle est divisée en 3 zones principales: 1 zone DNS (zone B), 1 zone serveurs (zone C), 1 zone navigateur (zone A) (voir schéma).
 
 Le jeu est divisée en 3 étapes: 
 
