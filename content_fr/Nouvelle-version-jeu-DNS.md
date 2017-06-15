@@ -18,6 +18,12 @@ Règles du jeu:
 
 Chaque enfant joue reçoit un numéro et joue un rôle prédéfini respectant un déroulement précis qui permet de comprendre la façon dont fonctionne un site web.
 
+Le jeu est divisée en 3 étapes: 
+
+- Etape 1: explications générales du jeu
+- Etape 2: chargement dynamique
+- Etape 3: résolveur DNS: censure
+
 Les joueurs:
 
 -	L’enfant numéro 1 joue le rôle du navigateur (ZONE A)
@@ -28,6 +34,9 @@ Les joueurs:
 -	L’enfant numéro 6 représente « smile.lu » et « google.com » (ZONE B)
 -	L’enfant numéro 7 représente « facebook.fr » et « youtube.com » (ZONE B)
 -	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des ressources (ZONE C)
+
+
+PHASE 1 & 2
 
 Le jeu se déroule de cette façon: une page d'un site Internet est projetée et les enfants vont réussir à comprendre comment est constituée cette page grâce à une sorte de jeu de rôle.
 
@@ -50,10 +59,12 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée et
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
 
 
-La deuxième phase:
+PHASE 3
+
 Le résolveur menteur.
 
 C'est le résolveur qui bloque et décide q'une ressource est interdite. C'est là où on introduit la notion de filtrage.
+Dans cette deuxième phase, les enfants se familiarisent avec le côté positif d'un filtrage DNS et son aspect négatif.
 
 
 
