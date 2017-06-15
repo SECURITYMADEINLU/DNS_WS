@@ -21,6 +21,10 @@ Règles du jeu:
 
 Chaque enfant joue un rôle prédéfini en respectant un déroulement précis qui permet dans un premier temps de comprendre la façon dont fonctionne un site web et le filtrage DNS dans un second temps.
 
+Agencement salle:
+
+La salle est divisée en 2 zones principales: 1 zone DNS, 1 zone serveurs (voir schéma).
+
 Le jeu est divisée en 3 étapes: 
 
 - Etape 1: explications générales du jeu
