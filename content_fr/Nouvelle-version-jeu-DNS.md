@@ -68,7 +68,7 @@ Cette phase introduit la notion de filtrage DNS. Lorsqu'un des enfants demande u
 
 Cependant, cette étape démontre qu'il est également nécessaire d'effectuer les mises à jour sur un navigateur pour qu'il ne soit pas vulnérable face aux malware. Afin de démontrer cette problématique, on créé un navigatuer mis à jour et un navigateur non mis à jour: les enfants comprennent très vite l'importance des mises à jour.
 
-Enfin, pour introduire ces malware, il sera demandé à l'enfant numéro 5 de distribuer du malware en donnant des réponses erronnées.
+Enfin, pour introduire les malware, il sera demandé à l'enfant numéro 5 de distribuer des malware en donnant des réponses erronnées.
 
 
 
