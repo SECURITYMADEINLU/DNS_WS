@@ -44,7 +44,7 @@ Les joueurs:
 
 PHASE 1 & 2
 
-Le jeu se déroule de cette façon: une page d'un site Internet est projetée et les enfants vont réussir à comprendre comment est constituée cette page grâce à une sorte de jeu de rôle.
+Le jeu se déroule de cette façon: une page d'un site Internet est projetée sur un écran. Les enfants ont pour objectif de recréer cette page grâce à une sorte de jeu de rôle.
 
 1/ L'enfant numéro 1 (navigateur) souhaite charger la page www.smile.lu/.
 
