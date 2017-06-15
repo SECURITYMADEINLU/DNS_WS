@@ -68,7 +68,7 @@ Et ainsi de suite, le tour reprend pour la consistution d'autres sites Internet.
 
 PHASE 3: le résolveur menteur
 
-Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent .
+Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent de bloauer des malware.
 
 Cette phase introduit la notion de filtrage DNS. Lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de l'aider à comprendre la censure. Cette étape amène les enfants à réfléchir sur la notion de liberté d'expression.  
 
