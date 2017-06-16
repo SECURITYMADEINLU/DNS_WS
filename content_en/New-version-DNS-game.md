@@ -56,7 +56,7 @@ A website page is projected on a screen and children will have to rebuild this p
 
 4/ The child number 2 (DNS resolver) asks the child number 4 who is “smile.lu”. The child number 4 indicates that it the child number 6 who has the answer.
 
-5/ The child number 2 (DNS resolver) asks the child number 6 who has “www.smile.lu”. The child number 6 indicates a “resource child”’s number, for instance the child number 8 (at this level, we use IP addresses, example: 192.162.2.3: this shows that we can also reach a website by typing figures in the browser).
+5/ The child number 2 (DNS resolver) asks the child number 6 who has “www.smile.lu”. The child number 6 indicates a “server child”’s number, for instance the child number 8 (at this level, we use IP addresses, example: 192.162.2.3: this shows that we can also reach a website by typing figures in the browser).
 
 6/ The child number 2 (DNS resolver) says to the child number 1 (browser) “the child number 8 can give you the info”.
 
@@ -66,7 +66,9 @@ A website page is projected on a screen and children will have to rebuild this p
 
 Then, the tour is again done and other websites have to be realized.
 
-PHASE 3: the lying resolver
+For each tour, areas must be inverted: the DNS area becomes server area and vice versa so that children can play different roles and will keep paying attention.
+
+PHASE 3: the lying resolver (too complicated)
 
 In this second phase, children will get familiar with controversial filtering system’s sides (censorhip) and its postive aspects which help block malware.
 
