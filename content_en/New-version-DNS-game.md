@@ -12,10 +12,10 @@ Game’s goals:
 
 Material:
 
-•	Panels with children’s roles
-•	Envelopes
-•	Stamps to confirm that the different steps were respected
-•	Chronometer
+- Panels with children’s roles
+- Envelopes
+- Stamps to confirm that the different steps were respected
+- Chronometer
 - cat / car pictures 
 
 Game’s rules:
