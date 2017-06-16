@@ -40,7 +40,7 @@ Les joueurs:
 -	L’enfant numéro 5 représente « .com » (ZONE B)
 -	L’enfant numéro 6 représente « smile.lu » et « google.com » (ZONE B)
 -	L’enfant numéro 7 représente « facebook.fr » et « youtube.com » (ZONE B)
--	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des ressources (ZONE C)
+-	Les enfants numéro 8 / 9 / 10 / 11 / 12 jouent le rôle des serveurs (ZONE C)
 
 PHASE 1 & 2
 
@@ -58,15 +58,17 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée su
 
 6/ L'enfant numéro 2 (résolveur DNS) dit à l'enfant numéro 1 (navigateur) "renseigne-toi auprès de l'enfant numéro 8". 
 
-7/ L'enfant numéro 1 (le navigateur) demande à un l'enfant ressource numéro 8 "/index.html".
+7/ L'enfant numéro 1 (le navigateur) demande à un l'enfant serveur numéro 8 "/index.html".
 
 8/ L'enfant ressource numéro 8 donne à l'enfant numéro 1 (le navigateur) le fichier "index.html"
 
 9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
 
-Et ainsi de suite, le tour reprend pour la consistution d'autres sites Internet.
+Et ainsi de suite, le tour reprend pour la constistution d'autres sites Internet.
 
-PHASE 3: le résolveur menteur
+A chaque tour, les zones doivent être interverties: la zone DNS devient la zone serveur et vice versa, ce qui permet aux enfants de toucher à tous les rôles et restent attentifs.
+
+PHASE 3: le résolveur menteur (trop compliqué pour les enfants)
 
 Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent de bloauer des malware.
 
