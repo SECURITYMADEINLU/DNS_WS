@@ -16,11 +16,12 @@ Material:
 - Envelopes
 - Stamps to confirm that the different steps were respected
 - Chronometer
-- cat / car pictures 
+- cat / car pictures (jpg, png...)
+- boxes to put the different pictures in it
 
 Game’s rules:
 
-Each child plays a predefined role and respect a precise continuity in order to, first of all, understand the way a website works and, then, how DNS filtering works.
+Each child plays a predefined role and respect a precise continuity in order to, first of all, understand the way a website works and, then, how DNS filtering works. The child who plays the browser receives 3 websites' templates and has to complete each template in order to fully load the website. 
 
 The game is divided in 3 key steps:
 
@@ -41,7 +42,7 @@ The players:
 -	Child number 5 represents “.com” (area B)
 -	Child number 6 represents “smile.lu” and “google.com” (area B)
 -	Child number 7 represents “facebook.fr” and “youtube.com” (area B)
--	Children number 8 / 9 / 10 / 11 / 12 play the resources’ role (area C)
+-	Children number 8 / 9 / 10 / 11 / 12 play the servers’ role (area C)
 
 PHASE 1 & 2
 
@@ -63,7 +64,8 @@ A website page is projected on a screen and children will have to rebuild this p
 
 7/ The child number 1 (browser) asks resource number 8’s child “/index.html”.
 
-9/ The “index.html” file owns resources hosted on other servers (example: pictures, videos...)
+9/ The “index.html” file owns resources hosted on other servers (example: pictures, videos...): identified resources are the following: 
+secure.facebook.com/login.php images.freehost.com/kitten.jpg video.youtube.com/smile alaytics.google.com/spy.js adds.google.com/prog1.js
 
 Then, the tour is again done and other websites have to be realized.
 
