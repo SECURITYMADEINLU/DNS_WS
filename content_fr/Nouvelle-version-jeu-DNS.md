@@ -16,6 +16,8 @@ Matériel:
 - enveloppes
 - tampons pour confirmer que les différentes étapes ont bien été respectées
 - chronomètre 
+- des modèles à compléter par le navigateur
+- des images de chats / de voitures
 
 Règles du jeu:
 
