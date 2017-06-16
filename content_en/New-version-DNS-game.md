@@ -16,6 +16,7 @@ Material:
 •	Envelopes
 •	Stamps to confirm that the different steps were respected
 •	Chronometer
+- cat / car pictures 
 
 Game’s rules:
 
