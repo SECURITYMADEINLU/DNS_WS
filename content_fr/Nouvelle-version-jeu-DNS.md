@@ -17,11 +17,13 @@ Matériel:
 - tampons pour confirmer que les différentes étapes ont bien été respectées
 - chronomètre 
 - des modèles à compléter par le navigateur
-- des images de chats / de voitures
+- des images de chats (jpg, png...) / de voitures (jpg, png...)
+- boîtes pour y mettre les différentes images
 
 Règles du jeu:
 
 Chaque enfant joue un rôle prédéfini en respectant un déroulement précis qui permet dans un premier temps de comprendre la façon dont fonctionne un site web et le filtrage DNS dans un second temps.
+
 
 Agencement salle:
 
