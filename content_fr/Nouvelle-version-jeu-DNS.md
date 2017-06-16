@@ -64,7 +64,7 @@ Le jeu se déroule de cette façon: une page d'un site Internet est projetée su
 
 8/ L'enfant ressource numéro 8 donne à l'enfant numéro 1 (le navigateur) le fichier "index.html"
 
-9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...)
+9/ Le fichier "index.html" contient des ressources hébergées sur d'autres serveurs (exemple: images, vidéos...): les ressources identifiées sont les suivantes: secure.facebook.com/login.php images.freehost.com/kitten.jpg video.youtube.com/smile alaytics.google.com/spy.js adds.google.com/prog1.js
 
 Et ainsi de suite, le tour reprend pour la constistution d'autres sites Internet.
 
