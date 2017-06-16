@@ -21,7 +21,7 @@ Material:
 
 Game’s rules:
 
-Each child plays a predefined role and respect a precise continuity in order to, first of all, understand the way a website works and, then, how DNS filtering works. The child who plays the browser receives 3 websites' templates and has to complete each template in order to fully load the website. 
+Each child plays a predefined role and respect a precise continuity in order to, first of all, understand the way a website works and, then, how DNS filtering works. The child who plays the browser receives 3 websites' templates and has to complete each template in order to fully load the website. In order to realize this, the child has to consult the child who plays the DNS resolver. The DNS resolver will then have to pick up the right picture / video among others with different endings (the child will have to be careful and choose the item well) and bring them to the browser.
 
 The game is divided in 3 key steps:
 
