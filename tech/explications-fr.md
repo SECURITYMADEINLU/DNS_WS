@@ -16,8 +16,8 @@ Le système DNS se comporte en plusieurs partie:
 - Un client (l'ordinateur de l'utilisateur), qui interroge son serveur résolveur DNS
 - Le serveur résolveur DNS va tenter de résoudre l'enigme de la question posée ("Quelle est l'adresse IP de www.smile.lu ?") en interrogeant des serveurs faisant autorité sur les domaines
 - Les serveurs faisant autorité sur les domaines. Ils indiquent soit :
--- la réponse finale voulue
--- l'identifiant du serveur faisant autorité du niveau suivant (ex: le serveur faisant autorité sur .com. pourra indiquer quel serveur fait autorité sur .facebook.com.)
+- - la réponse finale voulue
+- - l'identifiant du serveur faisant autorité du niveau suivant (ex: le serveur faisant autorité sur .com. pourra indiquer quel serveur fait autorité sur .facebook.com.)
 - Le serveur faisant autorité sur les domaines de premier niveau (comme .com.) est appelé Racine. 
 
 # Analogie de fonctionnement
