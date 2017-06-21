@@ -22,14 +22,19 @@ Le système DNS se comporte en plusieurs partie:
 
 # Analogie de fonctionnement
 On peut prendre comme analogie de fonctionnement pour la quête de résolution le chemin que suit une lettre. Si l'on prend l'adresse suivante:
-M. Martin
-3 rue de la Gare
-L-2140 Luxembourg
-Luxembourg
+
+- M. Martin
+- 3 rue de la Gare
+- L-2140 Luxembourg
+- Luxembourg
 
 Cette lettre postée en France sera d'abord expédiée vers la poste centrale du Grand-Duché de Luxembourg. Cette poste centrale joue le rôle de serveur racine. Elle connait les identifiants de toutes les postes de Luxembourg. Cette poste va alors diriger la lettre vers la poste de la ville de Luxembourg. Cette poste de la ville de Luxembourg connaît toutes les rues de Luxembourg. Elle va alors renvoyer cette lettre vers la poste de la rue de la Gare. La poste de la rue de la gare connaît tous les batiments de la rue. Elle va donner la lettre à un facteur qui ira déposer la lettre au 3 rue de la Gare dans la boîte aux lettres de M. Martin.
 
-Il s'agit d'une résolution récursive d'une adresse postale. Pour DNS, le fonctionnement est équivalent. Il existe des serveurs faisant autorité sur des domaines entiers (comme la poste centrale du Grand Duché qui sait où sont les villes dans le pays), mais qui ne connaissent pas les plus bas niveaux (cette poste centrale de ne connaitra pas la localisation de la boite aux lettres de M. Martin). Ces serveurs faisant autorité renvoie alors le serveur résolveur vers le serveur faisant autorité sur le domaine suivant (ex: le serveur faisant autorité sur .com. va renvoyer sur le serveur faisant autorité sur facebook.com). Au final, seul le dernier serveur faisant autorité sur la dernière zone pourra donner la correspondance souhaitée entre le serveur www de la zone .facebook.com. et son adresse IP.
+Il s'agit d'une résolution récursive d'une adresse postale. Pour DNS, le fonctionnement est équivalent. Il existe des serveurs faisant autorité sur des domaines entiers (comme la poste centrale du Grand Duché qui sait où sont les villes dans le pays), mais qui ne connaissent pas les plus bas niveaux (cette poste centrale de ne connaitra pas la localisation de la boite aux lettres de M. Martin). Ces serveurs faisant autorité renvoie alors le serveur résolveur vers le serveur faisant autorité sur le domaine suivant (ex: le serveur faisant autorité sur .org. va renvoyer sur le serveur faisant autorité sur wikipedia.org.). Au final, seul le dernier serveur faisant autorité sur la dernière zone pourra donner la correspondance souhaitée entre le serveur "de" de la zone .wikipedia.org. et son adresse IP.
+
+Ce principe de récursivité est explicité sur ce schéma:
+![Principe de récursivité de DNS](DNSSchematic.svg "image source: wikimedia.org")
+
 
 ## Phase du jeu de résolution DNS
 Dans le jeu, lorsque l'enfant qui joue le résolveur essaie de joindre www.smile.lu, il va d'abord interroger le serveur racine qui lui indiquera quel est l'identifiant du serveur faisant autorité sur le domaine .lu. Puis l'enfant ira interroger ce serveur faisant autorité sur le domaine .lu. pour tenter d'obtenir l'identité du serveur faisant autorité sur le domaine .smile.lu. Une fois connue l'identité de ce serveur, l'enfant va pouvoir interroger ce serveur faisant autorité sur le domaine .smile.lu. pour obtenir l'identifiant du serveur www.smile.lu. Le serveur faisant autorité sur .smile.lu va alors donner l'adresse IP de ce serveur www.smile.lu à l'enfant jouant le résolveur qui pourra donner cette information à l'enfant jouant le navigateur.
