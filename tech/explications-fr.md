@@ -8,6 +8,12 @@ Utiliser le nom d'un serveur plutôt que son adresse IP n'est pas utile qu'aux u
 # Problématiques de DNS
 ## Censure
 Lorsqu'une entité (un gouvernement ou une entreprise) souhaite censurer un site web, la solution la plus simple consiste à manipuler le système DNS pour qu'il réponde de manière erronée et ne renvoie pas la bonne association [Nom d'un serveur]=[Adresse IP] mais renvoie l'adresse IP d'un autre serveur. Cette manipulation est effectuée par le résolveur DNS, puisque les serveurs faisant autorité sont controlés par les propriétaires du serveur censuré.
+
+On notera cependant que mentir dans les résolutions DNS peut permettre de limiter la propagation de certains malware (programmes malveillants), en coupant les liens entre les ordinateurs infectés (ou sur le point d'être infectés) et les serveurs des criminels.
+
+## Compromission du DNS
+Il est parfois possible que des pirates puissent prendre le contrôle de serveurs DNS, résolveurs ou autoritaires. Dans ce cas, ils peuvent diffuser très simplement des virus ou avoir accès à des données sensibles. En effet, les ordinateurs penseront communiquer avec les serveurs légitimes puisque c'est la résolution DNS qui les aura induits en erreur. C'est pour cela qu'il est important de choisir un résolveur DNS de confiance et pas forcément "le serveur DNS qui permet d'aller plus vite sur Internet".
+
 ## Disponibilité
 DNS est un système critique permettant de joindre les serveurs sur Internet à partir de leurs noms. Il arrive parfois, suite à des attaques informatiques ou des pannes, que des bouts du système DNS soient inopérants. On constate alors une "panne" d'une partie d'Internet (par exemple Twitter et Facebook seront injoignables).
 
