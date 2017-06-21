@@ -74,7 +74,7 @@ A chaque tour, les zones doivent être interverties: la zone DNS devient la zone
 
 PHASE 3: le résolveur menteur (trop compliqué pour les enfants)
 
-Dans cette deuxième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent de bloauer des malware.
+Dans cette troisième phase, les enfants se familiarisent avec les aspects controversés d'un système de filtrage (la censure) et les aspects positifs qui permettent de bloquer des malware.
 
 Cette phase introduit la notion de filtrage DNS. Lorsqu'un des enfants demande une ressource, celle-ci est indiquée comme "fichier interdit" ou "ressource non autorisée" afin de l'aider à comprendre la censure. Cette étape amène les enfants à réfléchir sur la notion de liberté d'expression.  
 
